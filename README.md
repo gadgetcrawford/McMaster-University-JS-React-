@@ -1,5 +1,3 @@
-[![Edit exercise-1-passing-data](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/42xj4xq7l4)
-
 # Exercise 1 - Passing Data
 
 This React app was created on with the create-react-app template.
